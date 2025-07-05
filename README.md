@@ -28,7 +28,7 @@ Built in Unity using C# scripts and freeform aquatic movement, it combines arcad
 |------|---------|
 | `WhaleTrickController.cs` | Handles tricks, jumping, scoring, stamina, boost |
 | `TrickSetup.cs` | Defines trick combos, timing, and inputs |
-| `WhaleFollowCamera.cs` | Smooth follow and rotation camera |
+| `WhaleFollowCamera.cs` | Smooth follow and rotation camera | 32323
 | `InputController.cs` | Maps keyboard/gamepad input |
 | `UIManager.cs` | Displays score, stamina, boost indicators |
 | `WhaleStats.cs` | Tracks stats like jump height, time underwater |
